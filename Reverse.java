@@ -8,5 +8,6 @@ public class Reverse {
 			i=i/10;	
 		}
 		System.out.println(sum);
+		System.out.println(i);
 	}
 }
